@@ -15,23 +15,31 @@ ul{
 .title{
     font-size: 50px;
     color: #16d0ff;
+    text-align: center;
+}
+
+
    
-  }
+
 
 .home2{
     color:rgba(255, 255, 255, 0.918);
+    font-size: 25px;
 }
 
 .sobre{
     color:rgba(255, 255, 255, 0.918);
+    font-size: 25px;
 }
 
 .foto{
     color: rgba(255, 255, 255, 0.918);
+    font-size: 25px;
 }
 
 .contato{
     color:rgba(255, 255, 255, 0.918);
+    font-size: 25px;
 }
 
 .inicio{
@@ -49,7 +57,7 @@ ul{
 }
 
 .sinopse{
-    font-size: 28px;
+    font-size: 33px;
     color: #d8d6d6 ;
     margin-top: 0px;
     
@@ -77,7 +85,7 @@ ul{
 
 .lorem{
     color:#d8d6d6 ;
-    font-size: 20px;
+    font-size: 28px;
 }
 
 .rodape{
@@ -89,19 +97,19 @@ ul{
 }
 
 .insta{
-    width: 21px;
-    height: 21px;
+    width: 23px;
+    height: 23px;
     margin-top: 2px;
 }
 
 .face{
-    width: 20px;
-    height: 20px;
+    width: 24px;
+    height: 24px;
 }
 
 .whats{
-    width: 20px;
-    height: 20px;
+    width: 25px;
+    height: 25px;
 }
 
 .dados{

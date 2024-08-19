@@ -12,23 +12,28 @@ ul{
 .titulo{
     font-size: 50px;
     color: #16d0ff;
+    
    
   }
 
 .home2{
     color:rgba(255, 255, 255, 0.918);
+    font-size: 25px;
 }
 
 .sobre{
     color:rgba(255, 255, 255, 0.918);
+    font-size: 25px;
 }
 
 .foto{
     color: rgba(255, 255, 255, 0.918);
+    font-size: 25px;
 }
 
 .contato{
     color:rgba(255, 255, 255, 0.918);
+    font-size: 25px;
 }
 
 .text{
@@ -39,15 +44,17 @@ ul{
 .text2{
     font-size: 28px;
     color: #d8d6d6 ;
+    margin-top: 0px;
 }
 
-button{
+.b1{
     position: absolute;
-    left: 70%;
-    width: 100px;
-    height: 38px;
-    border-radius: 5px;
-    background-color: rgb(188, 188, 188);
+    left: 65%;
+    width: 120px;
+    height: 43px;
+    border-radius: 15px;
+    color: rgb(53, 16, 53);
+    font-size: 17px;
 }
 
 .text3{

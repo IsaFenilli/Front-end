@@ -1,0 +1,107 @@
+body{
+    background: rgb(19,6,64);
+    background: linear-gradient(90deg, rgba(19,6,64,1) 11%, rgba(28,18,67,1) 34%, rgba(28,18,67,1) 42%, rgba(42,134,153,1) 100%);
+}
+
+ul{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+}
+h1 {
+    font-size: 50px;
+    color: #16d0ff;
+   
+  }
+
+.home2{
+    color:rgba(255, 255, 255, 0.918);
+}
+
+.sobre{
+    color:rgba(255, 255, 255, 0.918);
+}
+
+.foto{
+    color: rgba(255, 255, 255, 0.918);
+}
+
+.contato{
+    color:rgba(255, 255, 255, 0.918);
+}
+
+.img1{
+    width: 600px;
+    height: 600px;
+    border-radius: 10px;
+    
+}
+
+.img2{
+    width:300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.img3{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+
+    
+
+.img4{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.img5{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    
+}
+
+.imagens{
+    display: flex;
+    align-items: center;
+    margin-left: 360px;
+    margin-top: 50px;
+    gap: 30px;
+}
+
+.imagens2{
+    display: flex;
+    margin-left: 318px;
+    margin-top: 50px;
+    gap: 10px;
+}
+
+.img6{
+    width: 600px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.img7{
+    width: 600px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.img8{
+    width: 700px;
+    height: 710px;
+    border-radius: 10px;
+}
+
+.imagensm2{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
